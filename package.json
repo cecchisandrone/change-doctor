@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Page objects and QA scripts",
   "scripts": {
-    "start": "grunt test"
+    "start": "grunt test --runWithSauceLabs"
   },
   "devDependencies": {
     "grunt": "0.4.5",
