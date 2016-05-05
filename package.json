@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Page objects and QA scripts",
   "scripts": {
-    "start": "pwd"
+    "start": "script"
   },
   "devDependencies": {
     "grunt": "0.4.5",
