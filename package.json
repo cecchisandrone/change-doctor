@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Page objects and QA scripts",
   "scripts": {
-    "start": "node_modules/.bin/grunt test --runWithSauceLabs"
+    "start": "pwd"
   },
   "devDependencies": {
     "grunt": "0.4.5",
