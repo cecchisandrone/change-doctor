@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Page objects and QA scripts",
   "scripts": {
-    "start": "script"
+    "start": "cd $OPENSHIFT_REPO_DIR && node_modules/grunt-cli/bin/grunt test --runWithSauceLabs"
   },
   "devDependencies": {
     "grunt": "0.4.5",
