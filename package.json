@@ -13,6 +13,7 @@
     "grunt-shell": "1.2.1",
     "grunt-typings": "0.1.4",
     "jasmine-fail-fast": "2.0.0",
-    "jasmine-reporters": "2.1.1" 
+    "jasmine-reporters": "2.1.1",
+    "nodemailer": "^2.3.2"
   }
 }
