@@ -7,7 +7,7 @@ var smtpConfig = {
     secure: false, // use SSL
     auth: {
         user: 'alessandrodionisi@alice.it',
-        pass: 'romatre'
+        pass: 'password'
     }
 };
 
